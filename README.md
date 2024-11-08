@@ -2,6 +2,8 @@
 Bienvenue sur mon portfolio ! Je m'appelle Haggar KHAMIS, étudiant en statistiques et données du vivant. Ce portfolio présente mes compétences en analyse statistique et en programmation, ainsi que plusieurs projets démontrant l’application de ces compétences.
 
 ## À propos de moi
+
+Étudiant en Statistiques et Données du Vivant, doté d’une solide formation en analyse de données, je possède une compréhension avancée de R et Python et excelle dans l’utilisation de techniques d’analyse multivariée pour des analyses complexes et rigoureuses. Actuellement à la recherche d’un stage, je souhaite mettre en pratique mes compétences en analyse statistique dans un environnement professionnel.Passionné par l’exploration et l’interprétation des données, je suis déterminé à contribuer à des projets innovants dans tout ce qui relève des sciences du vivant, de la santé et de l’analyse statistique appliquée.
 Je suis passionné par l'analyse de données et la manière dont les informations peuvent être extraites pour aider à la prise de décisions. Actuellement en recherche d'un stage, je développe mes compétences en :
 - **Analyse de données** : R (analyses en ACP, AFC) et Python
 - **Statistiques appliquées** : Méthodes d'analyse statistique, interprétation des données
