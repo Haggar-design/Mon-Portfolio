@@ -31,7 +31,7 @@ Un projet d'analyse sur la qualité des tourbières formées par la sphaigne, o�
 - **Langages de Programmation** : R, Python
 - **Analyse de données** : Analyse en composantes principales (ACP), analyse des correspondances (AFC)
 - **Outils de visualisation** : ggplot2 (R), matplotlib (Python)
-# Durée de thèse selon les domaines scientifiques
+### 3.[ Durée de thèse selon les domaines scientifiques]
 
 ## Description
 Ce projet explore les différences de durée des thèses en fonction des domaines scientifiques à partir des données ouvertes disponibles sur [le site du Ministère de l'Enseignement Supérieur et de la Recherche](https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-effectifs-doctorants-docteurs-ecoles-doctorales-durees-these-domaines).
@@ -39,17 +39,6 @@ Ce projet explore les différences de durée des thèses en fonction des domaine
 ## Objectifs
 - Analyser la durée moyenne des thèses par domaine scientifique.
 - Visualiser les variations à l'aide de graphiques clairs et informatifs.
-
-## Structure du projet
-- **Données :**  
-  - `data/raw/` contient les données brutes téléchargées.  
-  - `data/processed/` contient les données nettoyées prêtes pour l'analyse.
-- **Scripts :**  
-  - `scripts/analysis.R` exécute l'analyse principale.  
-  - `scripts/data_cleaning.R` prépare les données pour l'analyse.
-- **Graphiques :**  
-  - Les graphiques générés sont enregistrés dans le dossier `plots/`.
-
 ## Résultats
 Les résultats montrent que la durée des thèses varie considérablement selon les disciplines, avec des écarts significatifs entre les sciences humaines et les sciences techniques.
 
