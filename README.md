@@ -1,5 +1,5 @@
 # Mon Portfolio de Projets
-Bienvenue sur mon portfolio ! Je m'appelle Haggar KHAMIS, étudiant en statistiques et données du vivant. Ce portfolio présente mes compétences en analyse de Données,statistique et en programmation, illustrées par des projets qui démontrent leur application concrète..
+Bienvenue sur mon portfolio ! Je m'appelle Haggar KHAMIS, étudiant en statistiques et données du vivant. Ce portfolio présente mes compétences en analyse de données,statistique et en programmation, illustrées par des projets qui démontrent leur application concrète..
 
 ## À propos de moi
 
