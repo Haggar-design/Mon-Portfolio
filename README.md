@@ -56,4 +56,4 @@ Si tu souhaites en savoir plus sur mes projets ou discuter d'opportunités de st
 - khamishaggar3600@gmail.com
 - https://www.linkedin.com/in/haggar-khamis-47ba6532b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
-Merci pour ta visite !
+Merci pour votre visite !
